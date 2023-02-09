@@ -1,4 +1,5 @@
 const express = require("express");
+
 const weatherController = require("../../../controller/weatherController");
 const router = new express.Router();
 
